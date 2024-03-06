@@ -1,0 +1,63 @@
+{
+    "name": "Acácio Fernandes Jr",
+    "photo": "https://avatars.githubusercontent.com/u/146787917?v=4",
+    "job": "Front End Developer",
+    "location": "São Paulo - SP",
+    "phone": "(13) 99757-2219",
+    "email": "acaciofernandesjr@yahoo.com.br",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "HTML",
+          "logo": "/data/img/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "/data/img/css.png"
+        },
+        {
+          "name": "JS",
+          "logo": "/data/img/js.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "/data/img/angular.png"
+        }
+      ],
+      "softSkills": [
+        "Adaptabilidade",
+        "Liderança",
+        "Trabalho em equipe",
+        "Resilência",
+        "Comprometimento",
+        "Interesse em novidades"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)"
+
+    ],
+    "portfolio": [
+      {
+        "name": "Último projeto da trilha de Angular",
+        "url": "https://acaciofjunior.github.io/BuzzFeed/"
+      },
+      {
+        "name": "Projeto Pokedex em JS puro",
+        "url": "https://acaciofjunior.github.io/JS_Pokedex/"
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Niplan",
+        "period": "2020-2023",
+        "description": "Atuando como Técnico em Segurança do trabalho em contrato de manutenção e projeto na Nitro Química em São Paulo-SP e atualmente na Unipar Indupa em Santo André-SP. Atuando no setor de SGI, sendo auditado com sucesso pela certificadora DNV nas ISOS 45001 e 14001."
+      },
+      {
+        "name": "Azmate",
+        "period": "2018-2020",
+        "description": "Empresa que desempenhou projetos de elétrica, instrumentação e tubulação em fábricas da Air Liquide do Brasil, unidades de Ortigueira-PR, Belford Roxo-RJ, Imperatriz-MA, Paulínia-SP, Rio de Janeiro-RJ e Mauá-SP. Todas as obras de pequeno porte, com exceção de Mauá, de médio porte, onde executei minha função de TST."
+      }
+    ]
+  }
