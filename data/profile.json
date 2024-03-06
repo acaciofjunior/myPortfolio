@@ -9,19 +9,19 @@
       "hardSkills": [
         {
           "name": "HTML",
-          "logo": "/data/img/html.png"
+          "logo": "data/img/html.png"
         },
         {
           "name": "CSS",
-          "logo": "/data/img/css.png"
+          "logo": "data/img/css.png"
         },
         {
           "name": "JS",
-          "logo": "/data/img/js.png"
+          "logo": "data/img/js.png"
         },
         {
           "name": "Angular",
-          "logo": "/data/img/angular.png"
+          "logo": "data/img/angular.png"
         }
       ],
       "softSkills": [
