@@ -40,6 +40,10 @@
     ],
     "portfolio": [
       {
+        "name": "Github",
+        "url": "https://github.com/acaciofjunior"
+      },
+      {
         "name": "Último projeto da trilha de Angular",
         "url": "https://acaciofjunior.github.io/BuzzFeed/"
       },
